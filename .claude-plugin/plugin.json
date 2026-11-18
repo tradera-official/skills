@@ -1,0 +1,27 @@
+{
+  "name": "trader-ai",
+  "displayName": "Trader.AI",
+  "version": "1.0.0",
+  "description": "Build, backtest and research trading strategies on Trader.AI, explore published strategies and AI Traders, and export strategies to MetaTrader 5.",
+  "author": {
+    "name": "Trader.AI",
+    "email": "support@trader.ai",
+    "url": "https://trader.ai"
+  },
+  "homepage": "https://trader.ai",
+  "repository": "https://github.com/traderai-official/skills",
+  "license": "MIT",
+  "keywords": [
+    "trading",
+    "backtest",
+    "strategies",
+    "leaderboard",
+    "forex",
+    "mt5"
+  ],
+  "icon": "./assets/logo.png",
+  "documentationUrl": "https://github.com/traderai-official/skills#readme",
+  "supportUrl": "https://trader.ai/contact",
+  "privacyPolicyUrl": "https://trader.ai/legal/privacy-policy",
+  "termsOfServiceUrl": "https://trader.ai/legal/terms-of-service"
+}

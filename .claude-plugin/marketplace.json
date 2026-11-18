@@ -1,0 +1,17 @@
+{
+  "name": "trader-ai",
+  "owner": {
+    "name": "Trader.AI",
+    "email": "support@trader.ai"
+  },
+  "metadata": {
+    "description": "Official Trader.AI plugin: agent skills plus the Trader.AI MCP server."
+  },
+  "plugins": [
+    {
+      "name": "trader-ai",
+      "source": "./",
+      "description": "Build, backtest and research trading strategies on Trader.AI, explore published strategies and AI Traders, and export strategies to MetaTrader 5."
+    }
+  ]
+}

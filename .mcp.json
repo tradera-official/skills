@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "trader-ai": {
+      "type": "http",
+      "url": "https://trader.ai/api/mcp"
+    }
+  }
+}
